@@ -9,12 +9,6 @@ import android.widget.EditText
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.room.Room
-import com.example.dr3_e2_a1.roomContactInfo.ContatoInfo
-import com.example.dr3_e2_a1.roomContactInfo.ContatoInfoDao
-import com.example.dr3_e2_a1.roomContactInfo.ContatoInfoDatabase
-import com.example.dr3_e2_a1.roomContato.Contato
-import com.example.dr3_e2_a1.roomContato.ContatoDao
-import com.example.dr3_e2_a1.roomContato.ContatoDatabase
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase

@@ -10,10 +10,6 @@ class FirebaseFunctions {
 
     val dbFire = Firebase.firestore
 
-    fun addContact(){
-
-    }
-
     fun getCurrentUser(): String {
         return FirebaseAuth.getInstance().currentUser!!.uid
     }

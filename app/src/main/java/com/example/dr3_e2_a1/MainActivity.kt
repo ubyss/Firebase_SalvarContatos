@@ -5,10 +5,6 @@ import android.os.Bundle
 import android.util.Log
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
-import com.example.dr3_e2_a1.roomContactInfo.ContatoInfo
-import com.example.dr3_e2_a1.roomContactInfo.ContatoInfoDao
-import com.example.dr3_e2_a1.roomContato.Contato
-import com.example.dr3_e2_a1.roomContato.ContatoDao
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.firestore.ktx.toObject
 import com.google.firebase.ktx.Firebase
